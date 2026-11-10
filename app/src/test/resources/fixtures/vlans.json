@@ -1,0 +1,1 @@
+{"data": {"maxlen": 32, "maxvlans": 4094, "adminVlans": [{"vlan": 1, "name": "default", "type": 1}], "selVlans": [1]}}

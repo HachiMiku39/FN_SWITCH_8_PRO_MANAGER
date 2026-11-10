@@ -1,0 +1,1 @@
+{"data": {"sntp": true, "isv4": false, "srvHost": "ntp.aliyun.com", "port": 123, "defPort": 123, "time": 1794327427, "timeStr": "2026-11-10 16:17:07 UTC+8 ", "timezone": 480, "dlsType": 0, "dlsOffset": 60, "dlsRecDayS": 0, "dlsRecWeekS": 0, "dlsRecMonthS": 0, "dlsRecTimeS": "00:00", "dlsRecDayE": 0, "dlsRecWeekE": 0, "dlsRecMonthE": 0, "dlsRecTimeE": "00:00"}}
